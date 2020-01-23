@@ -1,7 +1,7 @@
 # crypto_app
 
 
-Make sure to follow me on twitter: https://twitter.com/Yashmeh989045 to be notified when I share the next part of the tutorial.
+Make sure to follow me on twitter: https://twitter.com/Yashmeh98904529 to be notified when I share the next part of the tutorial.
 
 <img src="screenshot1.png">
 <img src="screenshot2.png">
